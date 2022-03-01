@@ -10,16 +10,30 @@ apresentação de portfólio navegável e interativo de um novo empreendimento (
 Apps, leia sobre clicando aqui), pois nosso interesse na verdade é que ela seja realmente funcional e tenha os fluxos propostos funcionais. Nossa recomendação e dica de experiência: cuidado para não complicar demais adicionando features, fluxos e muitas telas ao projeto, ok?
 Melhor o simples bem feito do que o complexo mal resolvido 🤘  
 
-SHOW ME YOUR PRODUCT!!!
+#### *SHOW ME YOUR PRODUCT!!!*
 
 
-## Data da entrega e pitch de apresentação:
+### Data da entrega e pitch de apresentação:
 ● A entrega do projeto deverá ser realizada no dia 01 de abril via Sistema de
 Treinamento.  
-● E no dia 9 de abril vocês irão apresentar o pitch.
+● E no dia 9 de abril vocês irão apresentar o pitch.  
+
+  
+  
+    
+ # *(aqui telas (ipad, desk e smartphone)  do site desenvolvido  )  
+
+
+
+# *(Nome do nosso site)
 
 ## 💻 Projeto  
-  
+
+
+## 👀 Layout  
+
+
+## 👀 Nosso Site    
   
 
 ## 💚 Tecnologias  
@@ -29,13 +43,14 @@ Treinamento.
     
       
  ## 💚 Desenvolvedores  
+ 
  - Gustavo Ribeiro de Oliveira
  - Pietro Sera  
  - Alexandre Salgueiro Barbosa  
  - Raphael Micucci Bomfim  
  - Alex Ramos  
  - Wilciara Castilho Wertz  
- - 
+ 
    
      
      
@@ -45,7 +60,6 @@ Treinamento.
  - 	Ella Traldi
  - 	Isadora Igarashi  
  - 	Samuel Andrade
-
 
 
 

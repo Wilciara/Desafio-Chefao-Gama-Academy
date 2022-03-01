@@ -5,13 +5,13 @@
 # Desafio Chefão [Gama Academy](https://www.gama.academy/). 
 ***
 
-No Cenário pós pandemia, temos certeza que muitos novos negócios surgirão e nós designers e desenvolvedores temos o poder nas
+> No Cenário pós pandemia, temos certeza que muitos novos negócios surgirão e nós designers e desenvolvedores temos o poder nas
 mãos para contribuir com a sociedade e trazer soluções que auxiliem outras pessoas a vencerem esse momento. O nosso desafio vai ser criar um produto do zero. Vamos criar uma
 apresentação de portfólio navegável e interativo de um novo empreendimento (cervejaria artesanal, roupas, livros, por exemplo)! A aplicação pode ser um PWA (Progressive Web
 Apps, leia sobre clicando aqui), pois nosso interesse na verdade é que ela seja realmente funcional e tenha os fluxos propostos funcionais. Nossa recomendação e dica de experiência: cuidado para não complicar demais adicionando features, fluxos e muitas telas ao projeto, ok?
 Melhor o simples bem feito do que o complexo mal resolvido 🤘  
 
-#### *SHOW ME YOUR PRODUCT!!!*
+> #### *SHOW ME YOUR PRODUCT!!!*
 
 
 ### Data da entrega e pitch de apresentação:
@@ -46,7 +46,7 @@ Treinamento.
   
     
        Semana 01:  
-         
+                
        - [x] Elaboração do kanban
        - [ ] Definição da(s) persona(s)
        - [ ] Análise de benchmarking
@@ -89,24 +89,24 @@ Treinamento.
 
 # *(Nome do nosso site)
 ***  
-## 💻 Projeto  
+## 💻 Projeto🔑  
 ***
 
-## 👀 Layout  
+## 👀 Layout 🔎   
 ***
 
-## 👀 Nosso Site  
+##  🚀 Nosso Site 💻  
 ***
   
 
-## 💚 Tecnologias
+## 💚 Tecnologias 🔨
 ***
   
   
   
     
       
- ## 💚 Desenvolvedores
+ ## 💚 Desenvolvedores 💻
  ***
  
  - Gustavo Ribeiro de Oliveira
@@ -119,7 +119,7 @@ Treinamento.
    
      
      
- ## 💚 Designers
+ ## 💚 Designers 🎨 
  ***
  
  - Bruno Damasceno de Paula

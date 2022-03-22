@@ -1,0 +1,20 @@
+#banner {
+    background-color: #f6f7f8;
+    height: 100vh;
+    color: #0dab76;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+    gap: 30px;
+    background-position: 46% 4%;
+    background-size: 175%;
+}
+#banner h1 {
+    font-size: 156px;
+    text-align: center;
+}
+#banner p {
+    font-size: 18px;
+    font-weight: bold;
+}

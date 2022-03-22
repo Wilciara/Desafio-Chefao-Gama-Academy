@@ -1,3 +1,19 @@
+
+
+![logo-gama-academy](https://user-images.githubusercontent.com/94201226/159410285-dd24c678-f945-4ad3-8836-895ed3eb1945.png)
+  
+  
+  
+  
+  
+  # Initial Scratch
+  
+  
+
+
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

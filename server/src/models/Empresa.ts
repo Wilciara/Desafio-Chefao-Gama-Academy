@@ -1,7 +1,7 @@
 import { db } from '../db/index'
 import { DataTypes } from 'sequelize'
 
-export const Empresa = db.define('empresa', {
+const Empresa = db.define('empresa', {
     id_empresa: {
         type: DataTypes.INTEGER,
         autoIncrement: true,
@@ -16,3 +16,5 @@ export const Empresa = db.define('empresa', {
         allowNull: false
     }
 })
+
+export default Empresa;

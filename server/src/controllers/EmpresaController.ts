@@ -1,5 +1,5 @@
 import { Request, Response } from "express";
-import { Empresa } from "../models/Empresa";
+import Empresa from "../models/Empresa";
 
 class EmpresaController {
 

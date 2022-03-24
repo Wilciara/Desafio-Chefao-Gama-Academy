@@ -4,12 +4,11 @@ export let conexaoBD = {
     hasConnection,
 }
 
-
-export let db = new Sequelize(
-    'desafiochefaorm',
-    'root',
-    'mysql',
-    {dialect: 'mysql',host: 'localhost', port: 3306}
+export const db = new Sequelize(
+    'heroku_fc38a5a1db15f71',
+    'b1f0141177d914',
+    'e105dd91',
+    {dialect: 'mysql',host: 'us-cdbr-east-05.cleardb.net', port: 3306}
 )
 
 async function hasConnection(){

@@ -1,31 +1,31 @@
 import { db } from '../db/index';
 import { DataTypes } from 'sequelize';
 
-export const Vaga = db.define('vagas', {
-    id_vaga: {
+export const Formacao = db.define('formacoes', {
+    id_formacao: {
         type: DataTypes.INTEGER,
         autoIncrement: true,
         primaryKey: true
     },
-    titulo: {
+    formacao: {
         type: DataTypes.STRING
     },
-    tipo: {
+    status: {
         type: DataTypes.STRING
     },
-    localidade: {
+    grau: {
         type: DataTypes.STRING
     },
-    salario: {
-        type: DataTypes.FLOAT
+    curso: {
+        type: DataTypes.STRING
     },
-    sobre: {
-        type: DataTypes.TEXT
+    instituicao: {
+        type: DataTypes.STRING
     },
-    requisitos: {
-        type: DataTypes.TEXT
+    data_inicio: {
+        type: DataTypes.DATE
     },
-    infos_adicionais: {
-        type: DataTypes.TEXT
+    data_fim: {
+        type: DataTypes.DATE
     }
 });

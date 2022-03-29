@@ -1,8 +1,5 @@
 import { Sequelize } from 'sequelize';
 
-export let conexaoBD = {
-    hasConnection,
-}
 
 export const db = new Sequelize(
     'heroku_fc38a5a1db15f71',
@@ -10,6 +7,11 @@ export const db = new Sequelize(
     'e105dd91',
     {dialect: 'mysql',host: 'us-cdbr-east-05.cleardb.net', port: 3306}
 )
+
+
+export let conexaoBD = {
+    hasConnection,
+}
 
 async function hasConnection(){
     try {

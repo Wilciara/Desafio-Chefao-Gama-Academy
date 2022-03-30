@@ -1,5 +1,6 @@
 import { db } from '../db/index';
 import { DataTypes } from 'sequelize';
+import { Empresa } from './Empresa';
 
 export const Vaga = db.define('vagas', {
     id_vaga: {
@@ -27,5 +28,12 @@ export const Vaga = db.define('vagas', {
     },
     infos_adicionais: {
         type: DataTypes.TEXT
+    },
+    id_empresa: {
+        type: DataTypes.INTEGER,
+        references: {
+            model: Empresa,
+            key: "id_empresa"
+        }
     }
 });

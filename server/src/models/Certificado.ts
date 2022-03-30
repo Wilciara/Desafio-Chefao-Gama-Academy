@@ -1,5 +1,6 @@
 import { db } from '../db/index';
 import { DataTypes } from 'sequelize';
+import { Candidato } from './Candidato';
 
 export const Certificado = db.define('certificados', {
     id_certificado: {
@@ -21,5 +22,12 @@ export const Certificado = db.define('certificados', {
     },
     data_fim: {
         type: DataTypes.DATE
+    },
+    id_candidato: {
+        type: DataTypes.INTEGER,
+        references: {
+            model: Candidato,
+            key: "id_candidato"
+        }
     }
 });

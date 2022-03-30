@@ -9,7 +9,7 @@ export const db = new Sequelize(
 )
 
 
-export let conexaoBD = {
+export const conexaoBD = {
     hasConnection,
 }
 

@@ -1,18 +1,24 @@
 import { db } from '../db/index';
 import { DataTypes } from 'sequelize';
+import { Candidato } from './Candidato';
 import { Vaga } from './Vaga';
 
-export const Beneficio = db.define('beneficios', {
-    id_beneficio: {
+
+export const Candidatura = db.define('candidaturas', {
+    id_candidatura: {
         type: DataTypes.INTEGER,
         autoIncrement: true,
         primaryKey: true
     },
-    nome: {
+    status: {
         type: DataTypes.STRING
     },
-    valor: {
-        type: DataTypes.FLOAT
+    id_candidato: {
+        type: DataTypes.INTEGER,
+        references: {
+            model: Candidato,
+            key: "id_candidato"
+        }
     },
     id_vaga: {
         type: DataTypes.INTEGER,

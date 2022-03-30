@@ -1,5 +1,6 @@
 import { db } from '../db/index';
 import { DataTypes } from 'sequelize';
+import { Candidato } from './Candidato';
 
 export const Formacao = db.define('formacoes', {
     id_formacao: {
@@ -27,5 +28,12 @@ export const Formacao = db.define('formacoes', {
     },
     data_fim: {
         type: DataTypes.DATE
+    },
+    id_candidato: {
+        type: DataTypes.INTEGER,
+        references: {
+            model: Candidato,
+            key: "id_candidato"
+        }
     }
 });

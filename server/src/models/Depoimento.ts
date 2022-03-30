@@ -1,5 +1,6 @@
 import { db } from '../db/index';
 import { DataTypes } from 'sequelize';
+import { Empresa } from './Empresa';
 
 export const Depoimento = db.define('depoimentos', {
     id_depoimento: {
@@ -15,5 +16,12 @@ export const Depoimento = db.define('depoimentos', {
     },
     link_video: {
         type: DataTypes.STRING
+    },
+    id_empresa: {
+        type: DataTypes.INTEGER,
+        references: {
+            model: Empresa,
+            key: "id_empresa"
+        }
     }
 });

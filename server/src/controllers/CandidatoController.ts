@@ -1,5 +1,5 @@
 import { Request, Response } from "express";
-import { Candidato } from "../models/Candidato";
+import { Candidato } from "../models/index";
 
 class CandidatoController {
 

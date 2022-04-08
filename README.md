@@ -24,21 +24,21 @@ Treinamento.
     
       Semana 1  
            
-      - [ ] Elaboração do kanban com definição dos entregáveis • 2pts Total
-      - [ ] Definição do modelo de dados • 2pts Total
+      - [x] Elaboração do kanban com definição dos entregáveis • 2pts Total
+      - [x] Definição do modelo de dados • 2pts Total
                 
       Semana 2 e 3
               
-      - [ ] Desenho e desenvolvimento das API para acessar/manipular os dados da base • 1pt  
+      - [x] Desenho e desenvolvimento das API para acessar/manipular os dados da base • 1pt  
                 
        Semana 4  
                    
-      - [ ] Criação do frontend  
+      - [x] Criação do frontend  
                 
        Semana 5  
                
-      - [ ] Integração do frontend com backend 
-      - [ ] Criação do ambiente produtivo na nuvem e deployment da aplicação
+      - [x] Integração do frontend com backend 
+      - [x] Criação do ambiente produtivo na nuvem e deployment da aplicação
           
       
       
@@ -48,34 +48,34 @@ Treinamento.
        Semana 01:  
                 
        - [x] Elaboração do kanban
-       - [ ] Definição da(s) persona(s)
-       - [ ] Análise de benchmarking
-       - [ ] Levantamento de referências visuais
-       - [ ] Criação do fluxograma  
+       - [x] Definição da(s) persona(s)
+       - [x] Análise de benchmarking
+       - [x] Levantamento de referências visuais
+       - [x] Criação do fluxograma  
          
        Semana 02:  
          
-       - [ ] Criação do wireframe
-       - [ ] Criação do protótipo navegável
-       - [ ] Testes de usuários  
+       - [x] Criação do wireframe
+       - [x] Criação do protótipo navegável
+       - [x] Testes de usuários  
          
        
        Semana 03:  
                   
-       - [ ] Definição de paleta de cor e tipografia
-       - [ ] UI
+       - [x] Definição de paleta de cor e tipografia
+       - [x] UI
          
            
        Semana 04:  
          
-       - [ ] UI
-       - [ ] Criação de style guide
+       - [x] UI
+       - [x] Criação de style guide
          
        Semana 05:  
        
-        - [ ] UI
-        - [ ] Criação do ícone da aplicação e screenshots para Google Play e AppStore, se APP
-        - [ ] Relatório com as etapas do projeto descritas e suas justificativas
+        - [x] UI
+        - [x] Criação do ícone da aplicação e screenshots para Google Play e AppStore, se APP
+        - [x] Relatório com as etapas do projeto descritas e suas justificativas
          
          
        
@@ -83,25 +83,54 @@ Treinamento.
   
   
     
- # *(aqui telas (ipad, desk e smartphone)  do site desenvolvido  )  
+ # *(telas  site desenvolvido  )  
 ***
+![image](https://user-images.githubusercontent.com/94201226/162471429-713dea07-a346-460b-90b5-91904a290796.png)
+![image](https://user-images.githubusercontent.com/94201226/162471774-e20bd3ec-5765-4635-85fc-4bdead038af3.png)
+![image](https://user-images.githubusercontent.com/94201226/162471986-d4b02b78-4f96-4078-87be-867b5d167cf8.png)
+![image](https://user-images.githubusercontent.com/94201226/162472104-8deda356-833c-4241-9211-7769ba67b2fb.png)
 
 
-# *(Nome do nosso site)
+
+
+# * Queer Jobs ![Group 5198](https://user-images.githubusercontent.com/94201226/162475679-996e935c-1f82-4832-8d1b-722bd44e763e.png)
 ***  
 ## 💻 Projeto🔑  
 ***
+![Group 5198](https://user-images.githubusercontent.com/94201226/162477502-9938de9a-93c4-41ab-88cc-6b527cb89178.png)
+
+ O nosso desafio era criar um produto do zero. Uma apresentação de portfólio navegável e interativo de um novo empreendimento (cervejaria artesanal, roupas, livros, por exemplo). Nós escolhemos um site de empregos voltado ao publico LGBTQIA+. 
+Uma ferramenta que conecte pessoas LGBTQIA+ que estão buscando oportunidades de trabalho, com empresas que querem ser mais diversas e veem na diversidade um valor importante para gerir um negócio (exemplo: a AmbevTech tem um programa voltado para a contratação de pessoas trans).
+    
+       
+ Os principais desafios para a comunidade LGBTQIA+ frente ao mercado de trabalho. Seguem alguns dados que deixam isso bem claro:
+
+👉 38% das empresas afirmam que não contratariam pessoas LGBTQIA+ 
+👉 61% dos profissionais LGBTQIA+ brasileiros escondem sua orientação sexual em suas empresas 
+👉 41% dos gays afirmam terem sofrido discriminação em seu ambiente de trabalho por sua identidade de gênero     
+
+O modelo de negócio pode ser voltado para os dois públicos: quem quer emprego e quem quer empregar. (site continuará em desenvolvimento).
+  
 
 ## 👀 Layout 🔎   
 ***
+Você pode visualizar o layout do projeto através desse https://www.figma.com/file/NQkCCX8JFeLSWUDAeg5sCl/Desafio-Chef%C3%A3o?node-id=389%3A854. Lembrando que você precisa ter uma conta no Figma para acessá-lo.
+
+![image](https://user-images.githubusercontent.com/94201226/162474791-a2dac739-9f6a-4623-acec-7997fc9e42eb.png)
+
+
+![image](https://user-images.githubusercontent.com/94201226/162470875-d73cd375-59b3-49b8-96b0-0f85ca423455.png)
+
 
 ##  🚀 Nosso Site 💻  
 ***
+O nosso desafio era criar um produto do zero. Uma apresentação de portfólio navegável e interativo de um novo empreendimento (cervejaria artesanal, roupas, livros, por exemplo). Nós escolhemos um site de empregos voltado ao publico LGBTQIA+.
   
 
 ## 💚 Tecnologias 🔨
 ***
-  
+  ![image](https://user-images.githubusercontent.com/94201226/162478383-1d99117c-57d4-4a2c-8b4e-b62277a997d5.png)
+
   
   
     

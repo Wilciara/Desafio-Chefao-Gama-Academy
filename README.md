@@ -130,8 +130,13 @@ O nosso desafio era criar um produto do zero. Uma apresentação de portfólio n
 ## 💚 Tecnologias 🔨
 ***
   ![image](https://user-images.githubusercontent.com/94201226/162478383-1d99117c-57d4-4a2c-8b4e-b62277a997d5.png)
-
   
+  
+## Desenvolvido usando Atomic Design Methodology.
+***
+
+  ![1_IBzG_eNKWu_G9Elhsxh-1Q](https://user-images.githubusercontent.com/94201226/162479940-6ba2a41c-4757-4d99-a040-31205dfb9dcf.png)
+
   
     
       

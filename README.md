@@ -14,6 +14,22 @@ Melhor o simples bem feito do que o complexo mal resolvido 🤘
 > #### *SHOW ME YOUR PRODUCT!!!*
 
 
+# Queer Jobs ![Group 5198](https://user-images.githubusercontent.com/94201226/162475679-996e935c-1f82-4832-8d1b-722bd44e763e.png)  Demo:   
+  
+
+
+  https://app.usebubbles.com/paav1zkSzGZge3BvxW4JW5/comments-on-localhost  
+  
+
+
+
+
+## 👀 Resultado  
+
+  ![d36a5184-24e7-4d75-b649-01d8aa1625c8](https://user-images.githubusercontent.com/94201226/165021513-0f666ecf-1f36-49ad-9268-d05c4e13500d.jpeg)
+
+***  
+
 ### Data da entrega e pitch de apresentação:
 ● A entrega do projeto deverá ser realizada no dia 01 de abril via Sistema de
 Treinamento.  
